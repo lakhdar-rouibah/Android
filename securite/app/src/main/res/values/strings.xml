@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">securite</string>
+    <string name="menu">Menu</string>
+    <string name="alert">Alert message</string>
+    <string name="editer">Main courante</string>
+    <string name="stars">Points et classement</string>
+    <string name="message">Message</string>
+    <string name="main">Main courante</string>
+    <string name="planning">Planning</string>
+</resources>
